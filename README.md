@@ -1,6 +1,6 @@
 # NeuroStartUp
 
-C:\Users\lord_\Desktop\1.2. Site For Import\img\NeuroStartUp.png
+![](img\NeuroStartUp.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
